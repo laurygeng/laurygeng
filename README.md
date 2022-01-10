@@ -18,7 +18,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />\
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <!-- <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /> -->
   <!-- <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" /> -->
   <!-- <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" /> -->
@@ -84,8 +84,8 @@ The sky is clear and blue the sunlight dazzling...lived happily ever after
 <img alt="" width="400" src="https://github.com/laurygeng/laurygeng/raw/master/images/1.jpg" />
 <h3>Where to find me</h3>
 <p><a href="https://github.com/laurygeng" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/laurygeng" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://starts.cool" target="_blank"><img alt="MySite" src="https://img.shields.io/badge/Mysite-%230077B5.svg?&style=for-the-badge&logo=MySite&logoColor=white" /></a> 
- <a href="https://juejin.cn/user/3140634382179374" target="_blank"><img alt="Juejin" src="https://img.shields.io/badge/Mysite-%230077B5.svg?&style=for-the-badge&logo=MySite&logoColor=white" /></a> 
-  <a href="https://space.bilibili.com/516457861" target="_blank"><img alt="Bilibili" src="https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D422646817" /></a> 
+ <a href="https://juejin.cn/user/3140634382179374" target="_blank"><img alt="Juejin" src="https://img.shields.io/badge/JueJin-1e80ff.svg?&style=for-the-badge&logo=''&logoColor=white" /></a> 
+  <a href="https://space.bilibili.com/516457861" target="_blank"><img alt="Bilibili" src="https://img.shields.io/badge/-Bilibili-FE7398?style=flat-square&logo=bilibili&logoColor=white" /></a> 
 <!-- ------------ -->
 <!-- <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 10 January, 04:08 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
